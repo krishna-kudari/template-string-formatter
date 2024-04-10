@@ -37,10 +37,6 @@ No known issues at this time. If you encounter any problems or have suggestions 
 
 Contributions to improve the extension are welcome. Please feel free to fork the repository, make changes, and submit pull requests. For more information on contributing, please see the contributing guide in the repository.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thank you to all the contributors who help make this extension better.
@@ -48,6 +44,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions, feedback, or suggestions, please open an issue on the GitHub repository: [https://github.com/your-github-username/string-to-template-literal-converter](https://github.com/your-github-username/string-to-template-literal-converter).
+For questions, feedback, or suggestions, please open an issue on the GitHub repository: [https://github.com/krishna-kudari/template-string-formatter](https://github.com/krishna-kudari/template-string-formatter).
 
 Happy coding!

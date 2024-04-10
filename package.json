@@ -1,6 +1,11 @@
 {
   "name": "tsf",
-  "displayName": "./",
+  "displayName": "template-string-formatter",
+  "publisher": "krishnagurubasappakudari",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-github-username/string-to-template-literal-converter"
+  },
   "description": "template string formatter",
   "version": "0.0.1",
   "engines": {
