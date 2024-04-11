@@ -31,7 +31,7 @@ No specific requirements needed beyond the latest version of Visual Studio Code.
 
 ## Known Issues
 
-No known issues at this time. If you encounter any problems or have suggestions for improvements, please file an issue on the [GitHub repository](https://github.com/your-github-username/string-to-template-literal-converter).
+No known issues at this time. If you encounter any problems or have suggestions for improvements, please file an issue on the [GitHub repository](https://github.com/krishna-kudari/template-string-formatter).
 
 ## Contributing
 

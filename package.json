@@ -4,7 +4,7 @@
   "publisher": "krishnagurubasappakudari",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-github-username/string-to-template-literal-converter"
+    "url": "https://github.com/krishna-kudari/template-string-formatter"
   },
   "description": "template string formatter",
   "icon": "assets/logo.png",
