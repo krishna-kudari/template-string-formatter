@@ -7,6 +7,7 @@
     "url": "https://github.com/your-github-username/string-to-template-literal-converter"
   },
   "description": "template string formatter",
+  "icon": "assets/logo.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.88.0"
